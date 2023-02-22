@@ -6,9 +6,9 @@ base_link:
     # roll: -0.001
     # pitch: 0.015
     # yaw: -0.0364 # [base_link -> sensor_kit (-0.0364)] + [sensor_kit -> velodyne_top (1.575)] = 1.5386 ?
-    x: 0.0
-    y: 0.0
-    z: 0.0
+    x: 0.3
+    y: -0.22
+    z: 1.0
     roll: 0.0
     pitch: 0.0
     yaw: 0.0
